@@ -4,8 +4,8 @@ A wedding planner website is a platform designed to provide information and serv
 
 ## Build with :
 
->> Laravel
->> Boostrap
+- Laravel
+- Boostrap
 
 # Screenshots of the project
 -------------------
