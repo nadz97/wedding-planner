@@ -8,3 +8,4 @@ A wedding planner website is a platform designed to provide information and serv
 - Boostrap
 
 # Screenshots of the project
+![Web Preview](./ssevent.png)
